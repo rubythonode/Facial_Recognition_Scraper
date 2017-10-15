@@ -1,4 +1,4 @@
-# Facial_Recognition_Scraper
+# Facial Recognition Scraper
 Scraper, using facial recognition software. Written in python Uses the openCV module. Still barebones, but still started.
 
 This scraper will look across all dating websites, after reaching a match on a facial image using websites like Facebook, Twitter, and Tumblr if they have all 3. This search engine assumes that the subject of the search has a Facebook at the very least.
